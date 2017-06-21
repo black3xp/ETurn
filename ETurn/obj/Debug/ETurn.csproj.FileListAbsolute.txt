@@ -1,0 +1,19 @@
+C:\Users\joel mena\Desktop\PROGRAMACION\ETurn\ETurn\bin\Debug\ETurn.exe.config
+C:\Users\joel mena\Desktop\PROGRAMACION\ETurn\ETurn\bin\Debug\ETurn.exe
+C:\Users\joel mena\Desktop\PROGRAMACION\ETurn\ETurn\bin\Debug\ETurn.pdb
+C:\Users\joel mena\Desktop\PROGRAMACION\ETurn\ETurn\obj\Debug\ETurn.csprojResolveAssemblyReference.cache
+C:\Users\joel mena\Desktop\PROGRAMACION\ETurn\ETurn\obj\Debug\ETurn.ETurn.resources
+C:\Users\joel mena\Desktop\PROGRAMACION\ETurn\ETurn\obj\Debug\ETurn.Properties.Resources.resources
+C:\Users\joel mena\Desktop\PROGRAMACION\ETurn\ETurn\obj\Debug\ETurn.csproj.GenerateResource.Cache
+C:\Users\joel mena\Desktop\PROGRAMACION\ETurn\ETurn\obj\Debug\ETurn.exe
+C:\Users\joel mena\Desktop\PROGRAMACION\ETurn\ETurn\obj\Debug\ETurn.pdb
+C:\Users\Joel Mena\Google Drive\Proyectos_Programacion\ETurn\ETurn\bin\Debug\ETurn.exe.config
+C:\Users\Joel Mena\Google Drive\Proyectos_Programacion\ETurn\ETurn\obj\Debug\ETurn.exe
+C:\Users\Joel Mena\Google Drive\Proyectos_Programacion\ETurn\ETurn\obj\Debug\ETurn.pdb
+C:\Users\Joel Mena\Google Drive\Proyectos_Programacion\ETurn\ETurn\bin\Debug\ETurn.exe
+C:\Users\Joel Mena\Google Drive\Proyectos_Programacion\ETurn\ETurn\bin\Debug\ETurn.pdb
+C:\Users\Joel Mena\Google Drive\Proyectos_Programacion\ETurn\ETurn\obj\Debug\ETurn.csprojResolveAssemblyReference.cache
+C:\Users\Joel Mena\Google Drive\Proyectos_Programacion\ETurn\ETurn\obj\Debug\ETurn.ETurn.resources
+C:\Users\Joel Mena\Google Drive\Proyectos_Programacion\ETurn\ETurn\obj\Debug\ETurn.Properties.Resources.resources
+C:\Users\Joel Mena\Google Drive\Proyectos_Programacion\ETurn\ETurn\obj\Debug\ETurn.csproj.GenerateResource.Cache
+C:\Users\Joel Mena\Google Drive\Proyectos_Programacion\ETurn\ETurn\obj\Debug\ETurn.entregaTicket.resources

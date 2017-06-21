@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ETurn", "ETurn\ETurn.csproj", "{9DF091C2-DDE9-4D46-A687-71C2D92C6054}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conexiones", "Conexiones\Conexiones.csproj", "{DF94122B-AD85-4029-8851-3AA9A334BF0F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modelos", "Modelos\Modelos.csproj", "{59933039-9020-4764-AA97-D7C8896C56BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9DF091C2-DDE9-4D46-A687-71C2D92C6054}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DF091C2-DDE9-4D46-A687-71C2D92C6054}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DF091C2-DDE9-4D46-A687-71C2D92C6054}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DF091C2-DDE9-4D46-A687-71C2D92C6054}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF94122B-AD85-4029-8851-3AA9A334BF0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF94122B-AD85-4029-8851-3AA9A334BF0F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF94122B-AD85-4029-8851-3AA9A334BF0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF94122B-AD85-4029-8851-3AA9A334BF0F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59933039-9020-4764-AA97-D7C8896C56BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59933039-9020-4764-AA97-D7C8896C56BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59933039-9020-4764-AA97-D7C8896C56BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59933039-9020-4764-AA97-D7C8896C56BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
